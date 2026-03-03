@@ -26,6 +26,14 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 ## [Unreleased]
 
 ### Added
+-
+
+### Changed
+-
+
+## [0.2.0] - 2026-03-04
+
+### Added
 - Menambahkan roadmap ekosistem Browser Runtime di `README.md`.
 - Menambahkan struktur folder fase roadmap:
   - `web-platform-tutorial/`
@@ -81,3 +89,10 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 - Menambahkan materi `web-platform-tutorial/beginner/04-fetch-advanced-loading-retry-abort.md` dan mengubah statusnya menjadi `available` di index track README.
 - Menambahkan materi `web-platform-tutorial/beginner/05-local-storage-dan-state-persistence.md` dan mengubah statusnya menjadi `available` di index track README.
 - Menambahkan materi `web-platform-tutorial/beginner/06-mini-project-dashboard-browser.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/07-dom-component-pattern-tanpa-framework.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/08-event-delegation-dan-dynamic-list.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/09-url-state-dan-query-params.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/10-client-side-filter-sort-pagination.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/11-form-multi-step-dan-validasi-lanjutan.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/intermediate/12-mini-project-search-filter-list.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/advanced/13-network-resilience-timeout-retry-backoff.md` dan mengubah statusnya menjadi `available` di index track README.

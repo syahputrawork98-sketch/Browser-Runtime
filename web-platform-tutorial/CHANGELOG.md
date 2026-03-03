@@ -17,10 +17,30 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 ## [Unreleased]
 
 ### Added
-- Belum ada.
+-
 
 ### Changed
-- Belum ada.
+-
+
+## [0.2.0] - 2026-03-04
+
+### Added
+- Menambahkan materi lengkap `intermediate/07-dom-component-pattern-tanpa-framework.md` (format core + extension A-D).
+- Menambahkan materi lengkap `intermediate/08-event-delegation-dan-dynamic-list.md` (format core + extension A-D).
+- Menambahkan materi lengkap `intermediate/09-url-state-dan-query-params.md` (format core + extension A-D).
+- Menambahkan materi lengkap `intermediate/10-client-side-filter-sort-pagination.md` (format core + extension A-D).
+- Menambahkan materi lengkap `intermediate/11-form-multi-step-dan-validasi-lanjutan.md` (format core + extension A-D).
+- Menambahkan materi lengkap `intermediate/12-mini-project-search-filter-list.md` (format core + extension A-D).
+- Menambahkan materi lengkap `advanced/13-network-resilience-timeout-retry-backoff.md` (format core + extension A-D).
+
+### Changed
+- Memperbarui status `intermediate/07-dom-component-pattern-tanpa-framework.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `intermediate/08-event-delegation-dan-dynamic-list.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `intermediate/09-url-state-dan-query-params.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `intermediate/10-client-side-filter-sort-pagination.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `intermediate/11-form-multi-step-dan-validasi-lanjutan.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `intermediate/12-mini-project-search-filter-list.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/13-network-resilience-timeout-retry-backoff.md` di index `README.md` dari `planned` menjadi `available`.
 
 ## [0.1.0] - 2026-03-03
 

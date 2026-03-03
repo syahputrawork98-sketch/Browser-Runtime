@@ -43,15 +43,15 @@ Setelah menyelesaikan track ini, target akhirnya adalah:
 6. `beginner/06-mini-project-dashboard-browser.md` (available)
 
 ### Intermediate
-1. `intermediate/07-dom-component-pattern-tanpa-framework.md` (planned)
-2. `intermediate/08-event-delegation-dan-dynamic-list.md` (planned)
-3. `intermediate/09-url-state-dan-query-params.md` (planned)
-4. `intermediate/10-client-side-filter-sort-pagination.md` (planned)
-5. `intermediate/11-form-multi-step-dan-validasi-lanjutan.md` (planned)
-6. `intermediate/12-mini-project-search-filter-list.md` (planned)
+1. `intermediate/07-dom-component-pattern-tanpa-framework.md` (available)
+2. `intermediate/08-event-delegation-dan-dynamic-list.md` (available)
+3. `intermediate/09-url-state-dan-query-params.md` (available)
+4. `intermediate/10-client-side-filter-sort-pagination.md` (available)
+5. `intermediate/11-form-multi-step-dan-validasi-lanjutan.md` (available)
+6. `intermediate/12-mini-project-search-filter-list.md` (available)
 
 ### Advanced
-1. `advanced/13-network-resilience-timeout-retry-backoff.md` (planned)
+1. `advanced/13-network-resilience-timeout-retry-backoff.md` (available)
 2. `advanced/14-cache-strategy-memory-localstorage.md` (planned)
 3. `advanced/15-performance-basics-debounce-throttle-reflow.md` (planned)
 4. `advanced/16-accessibility-basics-keyboard-aria.md` (planned)
