@@ -17,10 +17,29 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 ## [Unreleased]
 
 ### Added
-- Belum ada perubahan.
+- Tidak ada.
 
 ### Changed
-- Belum ada perubahan.
+- Tidak ada.
+
+## [0.3.0] - 2026-03-04
+
+### Added
+- Menambahkan materi lengkap `advanced/13-scheduling-prioritas-dan-trade-off.md`.
+- Menambahkan materi lengkap `advanced/14-batching-dom-read-write-untuk-runtime-stability.md`.
+- Menambahkan materi lengkap `advanced/15-backpressure-dan-request-burst-control.md`.
+- Menambahkan materi lengkap `advanced/16-observability-runtime-log-timing-trace.md`.
+- Menambahkan materi lengkap `advanced/17-testing-runtime-ordering-dan-timing.md`.
+- Menambahkan materi lengkap `advanced/18-capstone-runtime-debugging-lab.md`.
+
+### Changed
+- Memperbarui status `advanced/13-scheduling-prioritas-dan-trade-off.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/14-batching-dom-read-write-untuk-runtime-stability.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/15-backpressure-dan-request-burst-control.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/16-observability-runtime-log-timing-trace.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/17-testing-runtime-ordering-dan-timing.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/18-capstone-runtime-debugging-lab.md` di index `README.md` dari `planned` menjadi `available`.
+- Menyelesaikan milestone level Advanced (`13-18`) pada track `browser-runtime-first-principles`.
 
 ## [0.2.0] - 2026-03-04
 

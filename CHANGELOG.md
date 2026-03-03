@@ -36,6 +36,13 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 - Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `10`.
 - Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `11`.
 - Menyelesaikan milestone `browser-runtime-first-principles` level Intermediate (`07-12`).
+- Merilis `browser-runtime-first-principles` versi `0.2.0` untuk milestone Intermediate (`07-12`) dan memulai progres Advanced dengan menyelesaikan modul `13`.
+- Melanjutkan progres `browser-runtime-first-principles` level Advanced dengan menyelesaikan modul `14`.
+- Melanjutkan progres `browser-runtime-first-principles` level Advanced dengan menyelesaikan modul `15`.
+- Melanjutkan progres `browser-runtime-first-principles` level Advanced dengan menyelesaikan modul `16`.
+- Melanjutkan progres `browser-runtime-first-principles` level Advanced dengan menyelesaikan modul `17`.
+- Menyelesaikan milestone `browser-runtime-first-principles` level Advanced (`13-18`) dengan menuntaskan modul `18`.
+- Merilis `browser-runtime-first-principles` versi `0.3.0` untuk milestone Advanced (`13-18`).
 
 ## [0.3.0] - 2026-03-04
 

@@ -61,12 +61,12 @@ Setelah menyelesaikan track ini, target akhirnya adalah:
 6. `intermediate/12-mini-project-async-workflow-inspector.md` (available)
 
 ### Advanced
-1. `advanced/13-scheduling-prioritas-dan-trade-off.md` (planned)
-2. `advanced/14-batching-dom-read-write-untuk-runtime-stability.md` (planned)
-3. `advanced/15-backpressure-dan-request-burst-control.md` (planned)
-4. `advanced/16-observability-runtime-log-timing-trace.md` (planned)
-5. `advanced/17-testing-runtime-ordering-dan-timing.md` (planned)
-6. `advanced/18-capstone-runtime-debugging-lab.md` (planned)
+1. `advanced/13-scheduling-prioritas-dan-trade-off.md` (available)
+2. `advanced/14-batching-dom-read-write-untuk-runtime-stability.md` (available)
+3. `advanced/15-backpressure-dan-request-burst-control.md` (available)
+4. `advanced/16-observability-runtime-log-timing-trace.md` (available)
+5. `advanced/17-testing-runtime-ordering-dan-timing.md` (available)
+6. `advanced/18-capstone-runtime-debugging-lab.md` (available)
 
 ### Expert Bridge
 1. `expert-bridge/README.md` (available)
