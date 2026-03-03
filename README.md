@@ -48,7 +48,7 @@ Gunakan pola `core format + track-specific extension`:
 Template yang dipakai:
 - Core: [`templates/core-topic-template.md`](./templates/core-topic-template.md)
 - Web Platform Tutorial: [`web-platform-tutorial/templates/web-platform-tutorial-template.md`](./web-platform-tutorial/templates/web-platform-tutorial-template.md)
-- Browser Runtime First Principles: [`templates/browser-runtime-first-principles-template.md`](./templates/browser-runtime-first-principles-template.md)
+- Browser Runtime First Principles: [`browser-runtime-first-principles/templates/browser-runtime-first-principles-template.md`](./browser-runtime-first-principles/templates/browser-runtime-first-principles-template.md)
 - Browser Engine and Rendering Book: [`templates/browser-engine-and-rendering-book-template.md`](./templates/browser-engine-and-rendering-book-template.md)
 - Runtime Exercises and Katas: [`templates/runtime-exercises-and-katas-template.md`](./templates/runtime-exercises-and-katas-template.md)
 - Browser Case Studies: [`templates/browser-case-studies-template.md`](./templates/browser-case-studies-template.md)
