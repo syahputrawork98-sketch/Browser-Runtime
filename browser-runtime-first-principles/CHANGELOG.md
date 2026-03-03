@@ -20,7 +20,10 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 - Tidak ada.
 
 ### Changed
-- Tidak ada.
+- Merapikan `beginner/01-call-stack-task-microtask.md` agar memenuhi aturan track:
+  - menambahkan section `Meta`,
+  - melengkapi drill section menjadi 3 drill,
+  - menambahkan section `13) Model Mental`, `14) Failure Case`, dan `15) Spec Hint`.
 
 ## [0.3.0] - 2026-03-04
 
