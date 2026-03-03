@@ -25,6 +25,14 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ## [Unreleased]
 
+### Added
+- Tidak ada.
+
+### Changed
+- Tidak ada.
+
+## [0.4.0] - 2026-03-04
+
 ### Changed
 - Menerapkan pola changelog bertingkat:
   - `CHANGELOG.md` root untuk ringkasan strategis lintas track.
