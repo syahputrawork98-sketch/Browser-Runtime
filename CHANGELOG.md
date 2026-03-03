@@ -26,10 +26,22 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 ## [Unreleased]
 
 ### Added
--
+- Tidak ada.
 
 ### Changed
--
+- Tidak ada.
+
+## [0.3.0] - 2026-03-04
+
+### Added
+- Tidak ada.
+
+### Changed
+- Menambahkan materi `web-platform-tutorial/advanced/14-cache-strategy-memory-localstorage.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/advanced/15-performance-basics-debounce-throttle-reflow.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/advanced/16-accessibility-basics-keyboard-aria.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/advanced/17-testing-basics-dom-and-api-flow.md` dan mengubah statusnya menjadi `available` di index track README.
+- Menambahkan materi `web-platform-tutorial/advanced/18-capstone-web-platform-app.md` dan mengubah statusnya menjadi `available` di index track README.
 
 ## [0.2.0] - 2026-03-04
 

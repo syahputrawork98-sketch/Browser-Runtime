@@ -52,11 +52,11 @@ Setelah menyelesaikan track ini, target akhirnya adalah:
 
 ### Advanced
 1. `advanced/13-network-resilience-timeout-retry-backoff.md` (available)
-2. `advanced/14-cache-strategy-memory-localstorage.md` (planned)
-3. `advanced/15-performance-basics-debounce-throttle-reflow.md` (planned)
-4. `advanced/16-accessibility-basics-keyboard-aria.md` (planned)
-5. `advanced/17-testing-basics-dom-and-api-flow.md` (planned)
-6. `advanced/18-capstone-web-platform-app.md` (planned)
+2. `advanced/14-cache-strategy-memory-localstorage.md` (available)
+3. `advanced/15-performance-basics-debounce-throttle-reflow.md` (available)
+4. `advanced/16-accessibility-basics-keyboard-aria.md` (available)
+5. `advanced/17-testing-basics-dom-and-api-flow.md` (available)
+6. `advanced/18-capstone-web-platform-app.md` (available)
 
 ### Expert Bridge
 1. `expert-bridge/README.md` (available)

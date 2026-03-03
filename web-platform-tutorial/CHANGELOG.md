@@ -17,10 +17,26 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 ## [Unreleased]
 
 ### Added
--
+- Tidak ada.
 
 ### Changed
--
+- Tidak ada.
+
+## [0.3.0] - 2026-03-04
+
+### Added
+- Menambahkan materi lengkap `advanced/14-cache-strategy-memory-localstorage.md` (format core + extension A-D).
+- Menambahkan materi lengkap `advanced/15-performance-basics-debounce-throttle-reflow.md` (format core + extension A-D).
+- Menambahkan materi lengkap `advanced/16-accessibility-basics-keyboard-aria.md` (format core + extension A-D).
+- Menambahkan materi lengkap `advanced/17-testing-basics-dom-and-api-flow.md` (format core + extension A-D).
+- Menambahkan materi lengkap `advanced/18-capstone-web-platform-app.md` (format core + extension A-D).
+
+### Changed
+- Memperbarui status `advanced/14-cache-strategy-memory-localstorage.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/15-performance-basics-debounce-throttle-reflow.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/16-accessibility-basics-keyboard-aria.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/17-testing-basics-dom-and-api-flow.md` di index `README.md` dari `planned` menjadi `available`.
+- Memperbarui status `advanced/18-capstone-web-platform-app.md` di index `README.md` dari `planned` menjadi `available`.
 
 ## [0.2.0] - 2026-03-04
 
