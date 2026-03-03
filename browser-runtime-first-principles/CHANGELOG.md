@@ -15,7 +15,26 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 - Pertahankan entri terbaru (termasuk `Unreleased`) di file utama.
 
 ## [Unreleased]
-Belum ada perubahan.
+
+### Added
+- Belum ada perubahan.
+
+### Changed
+- Belum ada perubahan.
+
+## [0.2.0] - 2026-03-04
+
+### Added
+- Menambahkan materi lengkap level Intermediate:
+  - `intermediate/07-microtask-starvation-dan-fairness.md`
+  - `intermediate/08-cancellation-pattern-abortcontroller.md`
+  - `intermediate/09-race-condition-dan-last-write-wins.md`
+  - `intermediate/10-runtime-side-effects-dan-state-consistency.md`
+  - `intermediate/11-memory-leak-dasar-listener-timer-closure.md`
+  - `intermediate/12-mini-project-async-workflow-inspector.md`
+
+### Changed
+- Memperbarui status modul Intermediate `07-12` di index `README.md` dari `planned` menjadi `available`.
 
 ## [0.1.0] - 2026-03-04
 

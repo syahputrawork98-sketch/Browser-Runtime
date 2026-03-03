@@ -30,6 +30,12 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
   - `CHANGELOG.md` root untuk ringkasan strategis lintas track.
   - `CHANGELOG.md` per track untuk detail progres modul.
 - Menyelesaikan milestone `browser-runtime-first-principles` level Beginner (`01-06`) dan merilisnya di changelog track sebagai `0.1.0`.
+- Menambahkan progres awal `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `07`.
+- Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `08`.
+- Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `09`.
+- Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `10`.
+- Melanjutkan progres `browser-runtime-first-principles` level Intermediate dengan menyelesaikan modul `11`.
+- Menyelesaikan milestone `browser-runtime-first-principles` level Intermediate (`07-12`).
 
 ## [0.3.0] - 2026-03-04
 

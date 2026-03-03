@@ -53,12 +53,12 @@ Setelah menyelesaikan track ini, target akhirnya adalah:
 6. `beginner/06-mini-project-runtime-trace-playground.md` (available)
 
 ### Intermediate
-1. `intermediate/07-microtask-starvation-dan-fairness.md` (planned)
-2. `intermediate/08-cancellation-pattern-abortcontroller.md` (planned)
-3. `intermediate/09-race-condition-dan-last-write-wins.md` (planned)
-4. `intermediate/10-runtime-side-effects-dan-state-consistency.md` (planned)
-5. `intermediate/11-memory-leak-dasar-listener-timer-closure.md` (planned)
-6. `intermediate/12-mini-project-async-workflow-inspector.md` (planned)
+1. `intermediate/07-microtask-starvation-dan-fairness.md` (available)
+2. `intermediate/08-cancellation-pattern-abortcontroller.md` (available)
+3. `intermediate/09-race-condition-dan-last-write-wins.md` (available)
+4. `intermediate/10-runtime-side-effects-dan-state-consistency.md` (available)
+5. `intermediate/11-memory-leak-dasar-listener-timer-closure.md` (available)
+6. `intermediate/12-mini-project-async-workflow-inspector.md` (available)
 
 ### Advanced
 1. `advanced/13-scheduling-prioritas-dan-trade-off.md` (planned)
