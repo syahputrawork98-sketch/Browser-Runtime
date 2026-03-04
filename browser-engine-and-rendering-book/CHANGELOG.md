@@ -37,11 +37,19 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 - Menambahkan dan melengkapi materi intermediate:
   - `intermediate/07-layout-thrashing-dan-batching-read-write.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
   - `intermediate/08-scroll-jank-dan-main-thread-contention.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
+  - `intermediate/09-animation-pipeline-css-vs-js.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
+  - `intermediate/10-list-rendering-large-dom-windowing-basics.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
+  - `intermediate/11-image-font-loading-impact-ke-render.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
+  - `intermediate/12-mini-project-jank-diagnosis-lab.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
 
 ### Changed
 - Memperbarui status modul beginner `01-06` di index `README.md` menjadi `available`.
 - Memperbarui status modul `intermediate/07-layout-thrashing-dan-batching-read-write.md` di index `README.md` menjadi `available`.
 - Memperbarui status modul `intermediate/08-scroll-jank-dan-main-thread-contention.md` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/09-animation-pipeline-css-vs-js.md` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/10-list-rendering-large-dom-windowing-basics.md` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/11-image-font-loading-impact-ke-render.md` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/12-mini-project-jank-diagnosis-lab.md` di index `README.md` menjadi `available`.
 - Menindaklanjuti hasil review beginner modules:
   - menambahkan section `A/B/C` pada modul `01`,
   - menyelaraskan contoh HTML/CSS pada modul `02`,
