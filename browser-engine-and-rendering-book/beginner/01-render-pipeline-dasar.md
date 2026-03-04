@@ -52,6 +52,7 @@ Bedah output:
 - Membaca layout (`offsetHeight`) setelah menulis style berulang.
 - Animasi properti mahal seperti `width/height` di banyak elemen.
 - Mengabaikan profiling DevTools saat optimasi.
+- Regression risk: refactor UI menambah update geometri masif tanpa audit render.
 
 ## 9) Prediksi Output Drill + Kunci Jawaban
 Drill:
@@ -81,3 +82,30 @@ Kunci:
 - Materi prasyarat: CSS layout dasar.
 - Topik terkait: layout thrashing case study.
 - Referensi tambahan: Rendering performance docs.
+
+## A) Pipeline Breakdown
+- Parse: browser membaca HTML/CSS dan membangun struktur dokumen.
+- Style: browser menghitung style final elemen berdasarkan aturan CSS.
+- Layout: browser menghitung posisi dan ukuran elemen.
+- Paint: browser menggambar hasil layout ke piksel.
+- Composite: browser menggabungkan layer menjadi frame akhir.
+
+## B) Perf Metric yang Relevan
+- Metric: p95 frame time pada interaksi dasar.
+- Target: p95 <= 16.7 ms pada perangkat target.
+- Dampak jika buruk: interaksi terasa patah-patah dan tidak responsif.
+- Metric: durasi gabungan `Recalculate Style + Layout + Paint` saat aksi utama.
+- Target: tidak ada stage tunggal yang mendominasi berulang > 8 ms.
+- Dampak jika buruk: frame budget cepat habis dan jank meningkat.
+
+## C) Verifikasi via DevTools
+1. Panel yang dipakai:
+   - `Performance`
+   - `Rendering` (FPS meter)
+2. Langkah observasi:
+   - Rekam interaksi sederhana (click, scroll, toggle class).
+   - Identifikasi stage dominan di flame chart (`Style/Layout/Paint/Composite`).
+   - Ulangi rekaman setelah perubahan kecil dan bandingkan.
+3. Indikator sukses:
+   - Stage dominan menurun atau lebih stabil antar frame.
+   - Frame drop berkurang pada skenario yang sama.
