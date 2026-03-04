@@ -80,8 +80,8 @@ Template utama:
 6. `beginner/06-mini-project-render-audit-dasar.md` (available)
 
 ### Intermediate
-1. `intermediate/07-layout-thrashing-dan-batching-read-write.md` (draft)
-2. `intermediate/08-scroll-jank-dan-main-thread-contention.md` (draft)
+1. `intermediate/07-layout-thrashing-dan-batching-read-write.md` (available)
+2. `intermediate/08-scroll-jank-dan-main-thread-contention.md` (available)
 3. `intermediate/09-animation-pipeline-css-vs-js.md` (draft)
 4. `intermediate/10-list-rendering-large-dom-windowing-basics.md` (draft)
 5. `intermediate/11-image-font-loading-impact-ke-render.md` (draft)

@@ -34,9 +34,14 @@ Format mengikuti prinsip [Keep a Changelog](https://keepachangelog.com/en/1.1.0/
   - `beginner/04-paint-cost-dan-layer-basics.md`
   - `beginner/05-compositing-transform-opacity.md`
   - `beginner/06-mini-project-render-audit-dasar.md`
+- Menambahkan dan melengkapi materi intermediate:
+  - `intermediate/07-layout-thrashing-dan-batching-read-write.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
+  - `intermediate/08-scroll-jank-dan-main-thread-contention.md` (format `core + A/B/C`, termasuk 2 drill prediksi wajib untuk level intermediate)
 
 ### Changed
 - Memperbarui status modul beginner `01-06` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/07-layout-thrashing-dan-batching-read-write.md` di index `README.md` menjadi `available`.
+- Memperbarui status modul `intermediate/08-scroll-jank-dan-main-thread-contention.md` di index `README.md` menjadi `available`.
 - Menindaklanjuti hasil review beginner modules:
   - menambahkan section `A/B/C` pada modul `01`,
   - menyelaraskan contoh HTML/CSS pada modul `02`,
